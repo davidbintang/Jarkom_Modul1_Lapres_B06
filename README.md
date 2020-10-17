@@ -146,7 +146,7 @@ ftp.request.command == USER || ftp.request.command == PASS
 #### 10. Cari file .pdf di wireshark lalu download dan buka file tersebut!
 
 ```
-. frame contains “application/pdf”
+frame contains “application/pdf”
 ```
 ```
 Klik kanan -> Follow -> TCP Stream -> Save data as Raw -> Jangan lupa tambahkan extension pdf (.pdf)
