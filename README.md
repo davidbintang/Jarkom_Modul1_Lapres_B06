@@ -101,7 +101,7 @@ Klik kanan -> Follow -> TCP Stream -> Save data as ASCII -> Ubah stream menjadi 
 
 *File txt akan tersimpan dan berisi **password** dari file zip sebelumnya*
 
-*Masukkan password, dan **Open This.pdf** akan menampilkan seperti dibawah ini*
+*Masukkan password, dan **answer.pdf** akan menampilkan seperti dibawah ini*
 
 ![6g](https://github.com/davidbintang/Jarkom_Modul1_Lapres_B06/blob/main/SS%20JAWABAN/NO%206%20(8).jpg)
 
